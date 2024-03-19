@@ -9,7 +9,7 @@
     <p>The code can include extra comments to enhance my comprehension of the material I'm studying and the commit history might become extensive as I systematically push changes to refine my practice</p>
     <h2>Table of Contents</h2>
     <ul>
-      <li>Chapter 1. Getting started with Spring</li>
+      <li><a href="https://github.com/nolascojoao/study-spring-in-action-6th/tree/main/chapter1/taco-cloud">Chapter 1. Getting started with Spring</a></li>
       <!-- next chapter here -->
     </ul>
   </div>
