@@ -4,12 +4,11 @@
   </div>
   <div style="flex-grow: 1;">
     <h2>study-spring-in-action-6th</h2>
-    <p>This repository is dedicated to my self-learning journey of the Spring Framework, based on the practical exercises and projects detailed in the book <a href="https://www.manning.com/books/spring-in-action-sixth-edition">Spring in Action, 6th Edition</a></p>
-    <h2>Note</h2>
-    <p>The code can include extra comments to enhance my comprehension of the material I'm studying and the commit history might become extensive as I systematically push changes to refine my practice</p>
+    <p>Repository dedicated to my self-learning of the Spring Framework based on the project detailed in the book <a href="https://www.manning.com/books/spring-in-action-sixth-edition">Spring in Action, 6th Edition</a></p>
     <h2>Table of Contents</h2>
     <ul>
       <li><a href="https://github.com/nolascojoao/study-spring-in-action-6th/tree/main/chapter1/taco-cloud">Chapter 1. Getting started with Spring</a></li>
+      <li><a href="https://github.com/nolascojoao/study-spring-in-action-6th/tree/main/chapter2/taco-cloud">Chapter 2. Developing web applications</a></li>
       <!-- next chapter here -->
     </ul>
   </div>
